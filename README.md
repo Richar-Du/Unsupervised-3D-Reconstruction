@@ -7,7 +7,7 @@
   - 模型的使用方法
   - 小程序部署
 
-> 电脑端模型采用：M3VSNet: Unsupervised Multi-metric Multi-view Stereo Network
+> 电脑端模型采用：M3VSNet: Unsupervised Multi-metric Multi-view Stereo Network (https://github.com/whubaichuan/M3VSNet)
 >
 > 小程序端模型采用：Digging Into Self-Supervised Monocular Depth Estimation   Cl´ement Godard
 
